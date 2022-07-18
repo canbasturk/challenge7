@@ -1,1 +1,2 @@
 # challenge7
+This program reads data from database of multiple tables representing different stocks. It analyzes its price action for one individual stock and then creates an ETF combining each stock, then analyzes the price action and returns of the ETF. All the analysis is visualized.
